@@ -13,3 +13,10 @@ For e.g., if the capital fund wants to invets in top 10 startups then the dashbo
 
 The dashboard will represnt the list of all the top companies alongside with Growth Rate, Revenue, Expense.
 The business leaders can adjust the cutoff according to their expentancy using diffrent parameters such as revenue cutoff, expense cutoff(these cutoff can go from its actual minimum actual maximum)
+
+I'm including two files:-
+1. EDA which helps you to understand the data analysis process and the whole preparation of raw data
+2. The dashboard which helps you to find the top startups along side with other modifications like:
+      a. Reference Line
+      b. Drop Lines
+      c. Tooltip(for whole summary of the company)
